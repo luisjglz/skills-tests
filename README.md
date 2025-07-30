@@ -3,22 +3,22 @@
 
 ### V0.0
 
-Semantic
+Semantic.
 
 
 
 
 ### V0.1
 
-Context
+Context.
 
-LLM's
+LLM's.
 
 
 
 
 ### V0.2
 
-Taxonomy -> Vector embeddings
+Taxonomy -> Vector embeddings.
 
-Skills taxonomy KSA
+Skills taxonomy KSA.
