@@ -1,9 +1,12 @@
 ## Skill extraction tests
 
 
+
+
 ### V0.0
 
 Semantic.
+
 
 
 
@@ -13,6 +16,7 @@ Semantic.
 Context.
 
 LLM's.
+
 
 
 
