@@ -26,3 +26,6 @@ LLM's.
 Taxonomy -> Vector embeddings.
 
 Skills taxonomy KSA.
+
+
+### V1.0
